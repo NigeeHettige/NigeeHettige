@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers/ >! <img src = "hi.gif" width = 50px>
+<h1> Hello Fellow < Developers/ >! 👋
 
 <img width="15%" align="right" alt="Github" src="welcome.gif" />
 
