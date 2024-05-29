@@ -5,7 +5,7 @@
   </h1>
   
 <div size='1px'> Hi! My name is Nigee Hettige. Thank You for taking the time to view my GitHub Profile :smile:
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nigeehettige&label=Profile%20views&color=0e75b6&style=flat" alt="nigeehettige" /> </p>
   </div>
 
 <!-- <h1 align="center">Hi 👋, I'm Nigee Hettige</h1>
@@ -76,8 +76,8 @@
 	
 </p>
 
-<div align="center">
+<!-- <div align="center">
 <h2 align="centre">Visitor Count</h2>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{nigeehettige}/count.svg" /></p> 
 <br>
-</div>
+</div> -->
