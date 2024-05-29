@@ -5,17 +5,12 @@
   </h1>
   
 <div size='1px'> Hi! My name is Nigee Hettige. Thank You for taking the time to view my GitHub Profile :smile:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nigeehettige&label=Profile%20views&color=0e75b6&style=flat" alt="nigeehettige" /> </p>
-  </div>
 
-<!-- <h1 align="center">Hi 👋, I'm Nigee Hettige</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka. Currently reading for an honours degree in Computer Science.</h3> -->
+  </div>
 
   <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="about.svg" />
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigeehettige&label=Profile%20views&color=0e75b6&style=flat" alt="nigeehettige" /> </p> -->
 
 - 🌱 I’m currently learning **Mobile application development with flutter and React Native.**
 
@@ -76,8 +71,8 @@
 	
 </p>
 
-<!-- <div align="center">
+<div align="center">
 <h2 align="centre">Visitor Count</h2>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{nigeehettige}/count.svg" /></p> 
 <br>
-</div> -->
+</div>
