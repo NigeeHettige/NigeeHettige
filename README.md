@@ -11,7 +11,11 @@
 <!-- <h1 align="center">Hi 👋, I'm Nigee Hettige</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka. Currently reading for an honours degree in Computer Science.</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nigeehettige&label=Profile%20views&color=0e75b6&style=flat" alt="nigeehettige" /> </p>
+  <h2> About Me </h2>
+
+<img width="55%" align="right" alt="Github" src="about.svg" />
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigeehettige&label=Profile%20views&color=0e75b6&style=flat" alt="nigeehettige" /> </p> -->
 
 - 🌱 I’m currently learning **Mobile application development with flutter and React Native.**
 
