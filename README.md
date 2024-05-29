@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Nigee Hettige</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka. Currently reading for an honours degree in Computer Science.</h3>
+<h1> Hello Fellow < Developers/ >! <img src = "hi.gif" width = 50px>
+
+<img width="15%" align="right" alt="Github" src="welcome.gif" />
+
+  </h1>
+  
+<div size='1px'> Hi! My name is Nigee Hettige. Thank You for taking the time to view my GitHub Profile :smile:
+
+  </div>
+
+<!-- <h1 align="center">Hi 👋, I'm Nigee Hettige</h1>
+<h3 align="center">A passionate frontend developer from Sri Lanka. Currently reading for an honours degree in Computer Science.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigeehettige&label=Profile%20views&color=0e75b6&style=flat" alt="nigeehettige" /> </p>
 
@@ -48,12 +58,12 @@
 </tr>
 </table>
 
-
-</p>       
+</p>
 
 <br>
 
 ## 👨‍💻 Let's Connect
+
 <p align="center">
   <a href="https://www.appsblee.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:nigeehettige20@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
