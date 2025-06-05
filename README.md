@@ -12,13 +12,13 @@
 
 <img width="55%" align="right" alt="Github" src="about.svg" />
 
-- 🌱 I’m currently learning **Mobile application development with flutter and React Native.**
+- 🌱 I’m currently learning **Daata science and software development**
 
-- 👯 I’m looking to collaborate on **React projects**
+- 👯 I’m looking to collaborate on **Web application with AI**
 
 - 📝 I regularly write articles on [https://appsblee.com](https://appsblee.com)
 
-- 💬 Ask me about **React Flutter Node**
+- 💬 Ask me about **React Next.js Node**
 
 - 📫 How to reach me **nigeehettige20@gmail.com**
 
