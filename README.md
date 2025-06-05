@@ -12,7 +12,7 @@
 
 <img width="55%" align="right" alt="Github" src="about.svg" />
 
-- 🌱 I’m currently learning **Daata science and software development**
+- 🌱 I’m currently learning **Data science and software development**
 
 - 👯 I’m looking to collaborate on **Web application with AI**
 
